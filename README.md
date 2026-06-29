@@ -2,7 +2,7 @@
 
 Voice keyboard for Android. Speak for as long as you need — no session timeout. Audio saved as you speak. Filler words removed. Text lands in any app.
 
-Download on Google Play · shuovo.com
+[Download on Google Play](https://play.google.com/store/apps/details?id=wtf.simpl.keys) · shuovo.com
 
 **## This repo**
 
